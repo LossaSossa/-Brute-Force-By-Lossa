@@ -11,7 +11,7 @@
 Ce script est **strictement réservé à un usage éducatif** et à des fins de test sur des systèmes **dont vous possédez l'autorisation explicite**.  
 Lossa **décline toute responsabilité** en cas d’utilisation abusive, illégale ou malveillante de cet outil.
 
-> ⚠️ Utilisez cet outil de manière éthique et responsable.
+> ⚠️ Utilisez cet outil de manière responsable.
 
 ---
 
